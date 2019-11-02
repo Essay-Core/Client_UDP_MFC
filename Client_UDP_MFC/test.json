@@ -1,0 +1,19 @@
+{
+	"local_ip":"192.168.1.8",
+	"local_port":"1003",
+
+	"msg_ip":"192.168.1.12",
+	"msg_port":"1001",
+
+	"config_ip":"192.168.1.12",
+	"config_port":"1001",
+	
+	"fpga_reg":"0x00",
+	"fpga_val":"0x00",
+
+	"adc_channel":"0x00",
+	"adc_size":"0x00",
+	"adc_addr":"0x00",
+	"adc_data":"0x00"
+
+}
